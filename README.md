@@ -7,5 +7,5 @@ scripts to stream to YouTube
 
 ```sh
 # KEY is the stream key provided by YouTube.
-./gray-wave --key $KEY
+./color-cycle.py --key $KEY
 ```
